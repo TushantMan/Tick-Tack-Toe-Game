@@ -95,7 +95,7 @@ function selectWinner(){
             resultinfo.classList.add("shown");
             mainboard.classList.remove("shown");
         }, 1000);
-        winmessage.innerHTML = `Player <p>${usersign}</p> won the game!`; 
+        winmessage.innerHTML = `Player <p>${usersign}</p> Wins!`; 
     }else{
         if(getIdVal(1) != "" && getIdVal(2) != "" && getIdVal(3) != "" && getIdVal(4) != "" && getIdVal(5) != "" && getIdVal(6) != "" && getIdVal(7) != "" && getIdVal(8) != "" && getIdVal(9) != ""){
             runai = false;
@@ -104,7 +104,7 @@ function selectWinner(){
                 resultinfo.classList.add("shown");
                 mainboard.classList.remove("shown");
             }, 1000);
-            winmessage.textContent = "Match has been drawn!";
+            winmessage.textContent = "Match has been Drawn!";
         }
     }
 }
