@@ -241,33 +241,9 @@ header{
   transition: all 0.3s ease;
   box-shadow: 0 5px 25px rgba(1 1 1 / 15%);
 }
-footer {
-  width: auto;
-  height: 20px;
-  text-align: center;
-  display: grid;
-  position: absolute;
-  font-size: 20px;
-  top: 95%;
-  justify-content: center;
-  display: flex;
-  padding: 0 517px;
-  color: #fff;
-}
 @media screen and (max-width: 1345px) {
   body{
     background-size: auto;
   }
 
-}
-@media screen and (max-width: 1215px) {
-  footer{
-    padding: 10px 350px;
-  }
-}
-@media screen and (max-width: 700px) {
-  footer{
-    padding: 10px 50.8px;
-    font-size: 15.5px;
-  }
 }
