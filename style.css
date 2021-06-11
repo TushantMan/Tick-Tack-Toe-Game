@@ -29,7 +29,7 @@ header{
 .selection__box{
   backdrop-filter: blur(25px);
   padding: 20px 25px 25px;
-  border-radius: 10px;
+  border-radius: 20px;
   border: 1px solid rgba(255,255,255,0.5);
   max-width: 400px;
   width: 100%;
@@ -61,7 +61,7 @@ header{
   font-size: 35px;
   padding: 8px 0;
   border: 1px solid rgba(255,255,255,0.5);
-  border-radius: 10px;
+  border-radius: 20px;
   color: #fff;
   font-weight: 700;
   cursor: pointer;
@@ -101,7 +101,7 @@ header{
   transform: translate(-50%, -50%) scale(0.9);
   border: 1px solid rgba(255,255,255,0.5);
   padding: 25px;
-  border-radius: 10px;
+  border-radius: 20px;
   backdrop-filter: blur(25px);
   color: #fff;
   box-shadow: 0 5px 25px rgba(1 1 1 / 15%);
@@ -113,7 +113,7 @@ header{
 }
 .main__board .details{
   padding: 7px;
-  border-radius: 10px;
+  border-radius: 20px;
   border: 1px solid rgba(255,255,255,0.5);
   backdrop-filter: blur(25px);
   box-shadow: 0 5px 25px rgba(1 1 1 / 15%);
@@ -155,7 +155,7 @@ header{
   background: rgba(255, 255, 255, 0.178);
   border: 1px solid rgba(255,255,255,0.5);
   box-shadow: 0 5px 25px rgba(1 1 1 / 15%);
-  border-radius: 10px;
+  border-radius: 20px;
   transition: all 0.3s ease;
 }
 .users.active .slider{
@@ -187,7 +187,7 @@ header{
   font-size: 80px;
   line-height: 80px;
   text-align: center;
-  border-radius: 10px;
+  border-radius: 20px;
   background: rgba(255, 255, 255, 0.178);
   backdrop-filter: blur(25px);
   box-shadow: 0 5px 25px rgba(1 1 1 / 15%);
@@ -195,7 +195,7 @@ header{
 
 .result__info{
   padding: 25px 20px;
-  border-radius: 10px;
+  border-radius: 20px;
   border: 1px solid rgba(255,255,255,0.5);
   max-width: 400px;
   width: 100%;
@@ -234,7 +234,7 @@ header{
   padding: 8px 20px;
   border: 1px solid rgba(255,255,255,0.5);
   background: rgba(255, 255, 255, 0.178);
-  border-radius: 10px;
+  border-radius: 20px;
   color: #fff;
   outline: none;
   cursor: pointer;
