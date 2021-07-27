@@ -7,5 +7,5 @@
 - Glassmorphism Tick Tack Toe Game built using HTML, CSS, & JAVASCRIPT.
 - Beautiful Glassmorphism design with fast AI gameplay and selectable player.
 
-![tttgame](img/preview.png)
+![jscalculator](img/preview.png)
 
